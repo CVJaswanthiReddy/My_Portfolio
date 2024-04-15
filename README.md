@@ -11,21 +11,21 @@ Welcome to my portfolio! This project showcases my skills and experiences as a w
 
 # Features
 
-Responsive Design: The portfolio is designed to be responsive and accessible across various devices and screen sizes.
+**Responsive Design:** The portfolio is designed to be responsive and accessible across various devices and screen sizes.
 
-Interactive Elements: Utilized JavaScript to create interactive elements such as modals, sliders, and navigation bars.
+**Interactive Elements:** Utilized JavaScript to create interactive elements such as modals, sliders, and navigation bars.
 
-CSS Customization: Custom CSS styles have been applied to ensure a unique and polished look.
+**CSS Customization:** Custom CSS styles have been applied to ensure a unique and polished look.
 
-Portfolio Sections: Includes sections such as About Me, Projects, Skills, and Contact, providing a comprehensive view of my abilities and work.
+**Portfolio Sections:** Includes sections such as About Me, Projects, Skills, and Contact, providing a comprehensive view of my abilities and work.
 
-Project Showcase: Highlights various projects with descriptions, images, and links to live demos or GitHub repositories.
+**Project Showcase:** Highlights various projects with descriptions, images, and links to live demos or GitHub repositories.
 
 # Live Demo
 
 Explore the live demo of my portfolio here.
 
-**Getting Started**
+# Getting Started
 
 To view the portfolio:
 
@@ -36,11 +36,11 @@ To view the portfolio:
 
 *Explore the different sections and projects showcased.
 
-**Support**
+# Support
 
 If you encounter any issues or have feedback, feel free to reach out to me at jaswanthireddy95@gmail.com.
 
-**Acknowledgements**
+# Acknowledgements
 
 Special thanks to Bootstrap for providing a foundation for responsive design and to the developers of various JavaScript libraries and plugins used in this project.
 
