@@ -23,7 +23,7 @@ Welcome to my portfolio! This project showcases my skills and experiences as a w
 
 # Live Demo
 
-Explore the live demo of my portfolio here.
+Explore the live demo of my portfolio here
 
 # Getting Started
 
