@@ -1,0 +1,173 @@
+Portfolio - A student portfolio
+This is a personal portfolio made by Jaswanthi Reddy
+
+
+
+
+
+#---------- HEADER ----------#
+
+alt = Portfolio
+
+<span class="material-symbols-outlined dark" aria-hidden="true"> dark_mode </span>
+
+<span class="material-symbols-outlined light" aria-hidden="true"> light_mode </span>
+
+
+
+#---------- HERO ----------#
+
+alt = Jaswanthi Reddy
+
+Undergraduate Student
+
+C.V.Jaswanthi Reddy
+
+ "Passionate and driven computer science engineering student with a keen interest in software development and innovative problem-solving. Committed to continuous learning and contributing positively to the tech industry."
+
+<span class="material-symbols-outlined" aria-hidden="true"> mail </span>
+jaswanthireddy95@gmail.com
+
+<span class="material-symbols-outlined" aria-hidden="true"> call </span>
++91 9493278238
+
+
+
+#---------- ABOUT CARD ----------#
+
+About
+
+A passionate Student with a strong background in Computer Science.
+"I am currently enrolled in the third year of my Bachelor of Technology (B.Tech) program at RGUKT RK Valley."
+
+<span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
+Kadapa
+
+<span class="material-symbols-outlined" aria-hidden="true"> Studies </span>
+RGUKT Rk Valley
+
+<span class="material-symbols-outlined" aria-hidden="true"> captive_portal </span>
+https://example.com
+
+
+
+#---------- PRIMARY TAB ----------#
+
+Projects
+
+Resume
+
+Contact
+
+
+
+#---------- PROJECT ----------#
+
+-->alt = Attendance Management system
+C++(Command-Line Interface)
+Attendance Management system
+
+-->alt = Sales_Dashboard
+lookerstudio
+Sales_Dashboard
+
+-->alt = Youtube_Analysis
+lookerstudio
+Youtube_Analysis
+
+-->alt = Pulling the spotify data
+Python
+Pulling the spotify data
+
+-->alt = Pulling You Tube data
+Python
+Pulling You Tube data
+
+-->alt =Wedding Management
+HTML,Bootstrap,JavaScript,Php,MySQL
+Wedding Management
+
+
+
+#---------- RESUME ----------#
+
+Certifications 
+
+-->Data Structures and Algorithms(C++)
+SURE Trust
+"I am proud to have received the completion certificate from SURE Trust, showcasing my proficiency in foundational programming concepts and problem-solving skills.".
+
+-->Hackathon Participation Certificate
+SURE Trust
+"I received a participation certificate from SURE Trust for a hackathon event."
+
+-->Web Development Internship Certificate
+Edustation
+"I am proud to have successfully completed a web development internship with Edustation, receiving a certificate of completion for my contributions and achievements during the internship."
+
+
+Education
+
+--> RGUKT, RK Valley|Bachelor of Computer Science Engineering|CGPA : 9.08
+2021 - 2025
+
+-->RGUKT, RK Valley |Pre - University Course ( PUC )|CGPA : 9.75
+2019 - 2021
+
+Zilla Parishath High School|CGPA : 10.00
+2018 - 2019
+
+Skills and Technologies
+
+Python
+C++
+Git
+HTML5
+CSS3
+JavaScript
+Express.js
+Node.js
+GitHub
+MongoDB
+SQLDB
+
+
+
+
+#---------- CONTACT ----------#
+
+Contact Info
+
+<span class="material-symbols-outlined" aria-hidden="true"> mail </span>
+
+Mail Us
+jaswanthireddy95@gmail.com
+cvjaswanthireddy@gmail.com
+
+<span class="material-symbols-outlined" aria-hidden="true"> call </span>
+
+Contact Us
++91 9493278238
+
+<span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
+
+Address
+Thallaproddutur, kadapa 516474, Andhra Pradesh, India
+
+Social Info
+
+Let’s Work Together.
+
+Name*
+Email*
+Subject
+Message*
+
+Send Message
+
+
+
+
+#---------- FOOTER ----------#
+
+Copyright 2024. All right reserved by Jaswanthi Reddy
