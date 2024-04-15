@@ -4,9 +4,7 @@ Welcome to my portfolio! This project showcases my skills and experiences as a w
 **Tech Stack**
 
 **HTML:** Used for structuring the content of the web pages.
-
 **CSS:** Employed for styling and layout purposes, ensuring a visually appealing presentation.
-
 **JavaScript:** Implemented for interactivity and dynamic behavior, enhancing user experience.
 
 **Features**
